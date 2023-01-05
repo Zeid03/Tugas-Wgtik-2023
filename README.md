@@ -1,2 +1,5 @@
-# Tugas-Wgtik-2023
-ini di buat untuk memenuhi tugas WGTIK pada tanggal 5 januari 2023
+# WGTIK_2021
+Base code for personal website exercise for WGTIK 2021
+
+example result:
+[https://adf-telkomuniv.github.io/WGTIK_2021/](https://adf-telkomuniv.github.io/WGTIK_2021/)
